@@ -3352,6 +3352,7 @@ _Where to discover new Go libraries._
 - [The Go Programming Language](https://www.gopl.io/)
 - [The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example)
 - [Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/)
+- [Go with the domain](https://threedots.tech/go-with-the-domain/)
 
 **[⬆ back to top](#contents)**
 
